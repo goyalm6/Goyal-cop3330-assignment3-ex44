@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/19548/IdeaProjects/Goyal-cop3330-assignment3-ex44</OriginalElement>
+  <nodes>
+    <node x="0.0" y="0.0">ex44.ProductSearch</node>
+    <node x="24.0" y="174.0">ex44.ProductSearchTest</node>
+    <node x="312.0" y="0.0">ex44.GetProductDetails</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ex44.ProductSearchTest" target="ex44.ProductSearch" relationship="DEPENDENCY">
+      <point x="54.75" y="-106.0" />
+      <point x="188.25" y="149.0" />
+      <point x="200.25" y="149.0" />
+      <point x="66.75" y="62.0" />
+    </edge>
+    <edge source="ex44.ProductSearchTest" target="ex44.ProductSearch" relationship="TO_ONE">
+      <point x="-54.75" y="-106.0" />
+      <point x="78.75" y="149.0" />
+      <point x="66.75" y="149.0" />
+      <point x="-66.75" y="62.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="242.0" y="193.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
